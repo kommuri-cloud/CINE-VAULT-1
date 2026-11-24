@@ -1,2 +1,5 @@
-# CINE-VAULT-1
-A sleek, responsive movie information webpage built using HTML5 and CSS3, featuring movie posters, ratings, storyline, cast profiles, trailer preview, and related films.
+Title : CINE-VAULT
+Name : KOMMURI KARTHIKEYA
+Branch : CSE 
+Section : 3
+ROLL NUMBER : 26000590
